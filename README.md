@@ -25,13 +25,13 @@
 | Project | Description | Course | Authors | Language | Tools |
 | ------- | ----------- | ------ | ------- | -------- | ----- |
 | [maljae](https://gitlab.com/fdesousalima/l2-s3-maljae) | A team assignment web server. | *Conduite de projet* | DAVEINE Capucine <br> CHANEZ Julien <br> QUACH Kevin <br> RAYMOND Antoine <br> AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java** | `Makefile` <br> `Maven` <br> `Junit4` <br> `CSS` <br> `FreeMarker` | 
-| [azul]() | A Java application for playing to *Azul*. | *POO et Interface Graphique* | DAVEINE Capucine <br> DE SOUSA LIMA Fabio | **Java** | `Makefile` |
+| [azul](https://gitlab.com/fdesousalima/l2-s3-azul) | A Java application for playing to *Azul*. | *POO et Interface Graphique* | DAVEINE Capucine <br> DE SOUSA LIMA Fabio | **Java** | `Makefile` |
 
 ### Semester 4
 
 | Project | Description | Course | Authors | Language | Tools |
 | ------- | ----------- | ------ | ------- | -------- | ----- |
-| [Flippy]() | An Pinball Game | *Projet de programmation* | CLISSON Adam <br> CHANEZ Julien <br> AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java** | `JavaFX` | 
+| [Flippy](https://gitlab.com/fdesousalima/l2-s4-flippy) | An Pinball Game | *Projet de programmation* | CLISSON Adam <br> CHANEZ Julien <br> AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java** | `JavaFX` | 
 
 ## Licence 3
 
@@ -39,19 +39,19 @@
 
 | Project | Description | Course | Authors | Language | Tools |
 | ------- | ----------- | ------ | ------- | -------- | ----- |
-| [tsh]() | A shell for tarball. | *Système* | MEBARKI Clément <br> DEPRES Hugo <br> DE SOUSA LIMA Fabio | **C**     | `Makefile` <br> `Docker` |
-| [Calculatrice]() | A online multi typed calculator. | *Complément de POO* | AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java**  | `Makefile` <br> `Maven` |
-| [L-Systèmes]() | A L-Systems visualizer. | *Programmation fonctionnelle* | CHANEZ Julien <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
-| [SMT-LIB]() | A SMT-LIB generator for automatic separators. | *Logique* | CHANEZ Julien <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
-| [DPLL]() | A recursive DPLL solver. | *Logique* | CHANEZ Julien <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
+| [tsh](https://gitlab.com/fdesousalima/l3-s5-tsh) | A shell for tarball. | *Système* | MEBARKI Clément <br> DEPRES Hugo <br> DE SOUSA LIMA Fabio | **C**     | `Makefile` <br> `Docker` |
+| [Calculatrice](https://gitlab.com/fdesousalima/l3-s5-calculatrice) | A online multi typed calculator. | *Complément de POO* | AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java**  | `Makefile` <br> `Maven` |
+| [L-Systèmes](https://gitlab.com/fdesousalima/l3-s5-l-systemes) | A L-Systems visualizer. | *Programmation fonctionnelle* | CHANEZ Julien <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
+| [SMT-LIB](https://gitlab.com/fdesousalima/smt-lib) | A SMT-LIB generator for automatic separators. | *Logique* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
+| [DPLL](https://gitlab.com/fdesousalima/l3-s5-dppl) | A recursive DPLL solver. | *Logique* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
 
 ### Semester 6
 
 | Project | Description | Course | Authors | Language | Tools |
 | ------- | ----------- | ------ | ------- | -------- | ----- |
-| [NetRadio]() | A broadcasting service for text messages. | *Programmation Réseau* | DA SILVA Gabriel <br> DEPRES Hugo <br> DE SOUSA LIMA Fabio | **C** <br> **Java** | `Makefile` |
-| [DB]() | Model of database for manga shop | *Bases de données* | AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Postgres** | `Python` |
-| [GA]() | A programming language and toolchain for turtle graphics. | *Grammaire et Analyse syntaxique* |  | **OCaml** | `Make` <br> `Dune` <br> `Menhir` <br> `ocamllex` |
-| [Twetter]() | Web site like twitter | *Programmation Web* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **Javascript** | `` |
-| [Twetter]() | Web site like twitter | *Programmation Web* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **Javascript** | `` |
+| [NetRadio](https://gitlab.com/fdesousalima/netradio) | A broadcasting service for text messages. | *Programmation Réseau* | DA SILVA Gabriel <br> DEPRES Hugo <br> DE SOUSA LIMA Fabio | **C** <br> **Java** | `Makefile` |
+| [DB](https://gitlab.com/fdesousalima/db) | Model of database for manga shop | *Bases de données* | AMORIM Pierre <br> DE SOUSA LIMA Fabio | **PostgreSQL** | `Python` |
+| [GA](https://gitlab.com/fdesousalima/ga) | A programming language and toolchain for turtle graphics. | *Grammaire et Analyse syntaxique* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Make` <br> `Dune` <br> `Menhir` <br> `ocamllex` |
+| [Flower](https://gitlab.com/fdesousalima/l6-s6-flower) | Florist website | *Programmation Web* | DE SOUSA LIMA Fabio | **Javascript** | `CSS` <br> `Express` <br> `MySQL` |
+| [Twetter](https://gitlab.com/fdesousalima/l3-s6-tweeter) | Web site like twitter | *Programmation Web* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **Javascript** | `Vuejs` <br> `Express` <br>  `Boostrap` <br> `PostgreSQL` |
 
