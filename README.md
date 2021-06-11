@@ -24,7 +24,7 @@
 
 | Project | Description | Course | Authors | Language | Tools |
 | ------- | ----------- | ------ | ------- | -------- | ----- |
-| [maljae]() | A team assignment web server. | *Conduite de projet* | DAVEINE Capucine <br> CHANEZ Julien <br> QUACH Kevin <br> RAYMOND Antoine <br> AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java** | `Makefile` <br> `Maven` <br> `Junit4` <br> `CSS` <br> `FreeMarker` | 
+| [maljae](https://gitlab.com/fdesousalima/l2-s3-maljae) | A team assignment web server. | *Conduite de projet* | DAVEINE Capucine <br> CHANEZ Julien <br> QUACH Kevin <br> RAYMOND Antoine <br> AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java** | `Makefile` <br> `Maven` <br> `Junit4` <br> `CSS` <br> `FreeMarker` | 
 | [azul]() | A Java application for playing to *Azul*. | *POO et Interface Graphique* | DAVEINE Capucine <br> DE SOUSA LIMA Fabio | **Java** | `Makefile` |
 
 ### Semester 4
