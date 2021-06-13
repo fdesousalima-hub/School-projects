@@ -42,8 +42,8 @@
 | [tsh](https://gitlab.com/fdesousalima/l3-s5-tsh) | A shell for tarball. | *Système* | MEBARKI Clément <br> DEPRES Hugo <br> DE SOUSA LIMA Fabio | **C**     | `Makefile` <br> `Docker` |
 | [Calculatrice](https://gitlab.com/fdesousalima/l3-s5-calculatrice) | A online multi typed calculator. | *Complément de POO* | AMORIM Pierre <br> DE SOUSA LIMA Fabio | **Java**  | `Makefile` <br> `Maven` |
 | [L-Systèmes](https://gitlab.com/fdesousalima/l3-s5-l-systemes) | A L-Systems visualizer. | *Programmation fonctionnelle* | CHANEZ Julien <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
-| [SMT-LIB](https://gitlab.com/fdesousalima/smt-lib) | A SMT-LIB generator for automatic separators. | *Logique* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
-| [DPLL](https://gitlab.com/fdesousalima/l3-s5-dppl) | A recursive DPLL solver. | *Logique* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
+| [SMT-LIB](https://gitlab.com/fdesousalima/smt-lib) | A SMT-LIB generator for automatic separators. | *Logique* | MEBARKI Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
+| [DPLL](https://gitlab.com/fdesousalima/l3-s5-dppl) | A recursive DPLL solver. | *Logique* | MEBARKI Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Makefile` |
 
 ### Semester 6
 
@@ -51,7 +51,7 @@
 | ------- | ----------- | ------ | ------- | -------- | ----- |
 | [NetRadio](https://gitlab.com/fdesousalima/netradio) | A broadcasting service for text messages. | *Programmation Réseau* | DA SILVA Gabriel <br> DEPRES Hugo <br> DE SOUSA LIMA Fabio | **C** <br> **Java** | `Makefile` |
 | [DB](https://gitlab.com/fdesousalima/db) | Model of database for manga shop | *Bases de données* | AMORIM Pierre <br> DE SOUSA LIMA Fabio | **PostgreSQL** | `Python` |
-| [GA](https://gitlab.com/fdesousalima/ga) | A programming language and toolchain for turtle graphics. | *Grammaire et Analyse syntaxique* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Make` <br> `Dune` <br> `Menhir` <br> `ocamllex` |
+| [GA](https://gitlab.com/fdesousalima/ga) | A programming language and toolchain for turtle graphics. | *Grammaire et Analyse syntaxique* | MEBARKI Clément <br> DE SOUSA LIMA Fabio | **OCaml** | `Make` <br> `Dune` <br> `Menhir` <br> `ocamllex` |
 | [Flower](https://gitlab.com/fdesousalima/l6-s6-flower) | Florist website | *Programmation Web* | DE SOUSA LIMA Fabio | **Javascript** | `CSS` <br> `Express` <br> `MySQL` |
-| [Twetter](https://gitlab.com/fdesousalima/l3-s6-tweeter) | Web site like twitter | *Programmation Web* | MEBARK Clément <br> DE SOUSA LIMA Fabio | **Javascript** | `Vuejs` <br> `Express` <br>  `Boostrap` <br> `PostgreSQL` |
+| [Twetter](https://gitlab.com/fdesousalima/l3-s6-tweeter) | Web site like twitter | *Programmation Web* | MEBARKI Clément <br> DE SOUSA LIMA Fabio | **Javascript** | `Vuejs` <br> `Express` <br>  `Boostrap` <br> `PostgreSQL` |
 
