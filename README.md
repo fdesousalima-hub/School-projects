@@ -8,6 +8,7 @@
 * [Licence 3](#licence-3)
 	* [Semester 5](#semester-5)
 	* [Semester 6](#semester-6)
+* [Master 1](#master-1)
 
 
 ## Licence 1
